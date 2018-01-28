@@ -1,9 +1,9 @@
 {
     "autoload": {
         "classmap": [
-            "App/Core",
-            "App/Controllers",
-            "App/Middlewares"
+            "server/Core",
+            "server/Controllers",
+            "server/Middlewares"
         ]
     },
     "require": {
